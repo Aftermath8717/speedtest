@@ -1,8 +1,8 @@
-# speedtest <endl> <endl>
+# speedtest  
 
-./speedtest -a Pilnas testas <endl>
-./speedtest -l Vietos nustatymas <endl>
-./speedtest -s Serverio paieska pagal sali <endl>
-./speedtest -d Atsisiuntimo testas <endl>
-./speedtest -u Ikelimo testas <endl>
-./speedtest -h Pagalba (komandu informacija) <endl>
+./speedtest -a Pilnas testas  
+./speedtest -l Vietos nustatymas  
+./speedtest -s Serverio paieska pagal sali  
+./speedtest -d Atsisiuntimo testas  
+./speedtest -u Ikelimo testas  
+./speedtest -h Pagalba (komandu informacija)  
